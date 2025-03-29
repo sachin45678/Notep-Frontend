@@ -6,6 +6,6 @@ export default defineConfig({
   server: {
     host: '0.0.0.0',
     port: process.env.PORT || 5173,
-    allowedHosts: ['notep-frontend-11.onrender.com']
+    allowedHosts: ['notep-frontend-9.onrender.com']
   }
 });
